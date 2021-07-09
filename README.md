@@ -1,2 +1,2 @@
-# exercicio_python
+# Linguagem de Programação Python
 Resolução de Funções e Classes
